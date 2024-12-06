@@ -17,3 +17,9 @@ Eligibility Check Data: An Excel (.xlsx) file with the outlet names and eligibit
 
 
   ### Data Cleaning/Preparation
+
+  In the initial phase of preparation, I performed the following;
+
+  - Data loading and inspection
+  - Sorting and filtering
+  - 
