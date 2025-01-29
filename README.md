@@ -13,7 +13,7 @@ Eligibility Check Data: An Excel (.xlsx) file with the outlet names and eligibit
 
 - Excel - Data Cleaning
 - MySQL - Data Analysis
-- Power BI - Creating report
+- Power BI - Creating reports
 
 
   ### Data Cleaning/Preparation
